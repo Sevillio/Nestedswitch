@@ -1,0 +1,14 @@
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\bin\Debug\net7.0\Textbasedgame.exe
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\bin\Debug\net7.0\Textbasedgame.deps.json
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\bin\Debug\net7.0\Textbasedgame.runtimeconfig.json
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\bin\Debug\net7.0\Textbasedgame.dll
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\bin\Debug\net7.0\Textbasedgame.pdb
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.AssemblyInfoInputs.cache
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.AssemblyInfo.cs
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.csproj.CoreCompileInputs.cache
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.dll
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\refint\Textbasedgame.dll
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.pdb
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\Textbasedgame.genruntimeconfig.cache
+C:\Users\god_s\source\repos\Textbasedgame\Textbasedgame\obj\Debug\net7.0\ref\Textbasedgame.dll

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\god_s\\source\\repos\\Textbasedgame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0371C716-207E-4F2C-9F36-8DCB31C78DE6}|Textbasedgame\\Textbasedgame.csproj|c:\\users\\god_s\\source\\repos\\textbasedgame\\textbasedgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0371C716-207E-4F2C-9F36-8DCB31C78DE6}|Textbasedgame\\Textbasedgame.csproj|solutionrelative:textbasedgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:553844285:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\god_s\\source\\repos\\Textbasedgame\\Textbasedgame\\Program.cs",
+              "RelativeDocumentMoniker": "Textbasedgame\\Program.cs",
+              "ToolTip": "C:\\Users\\god_s\\source\\repos\\Textbasedgame\\Textbasedgame\\Program.cs",
+              "RelativeToolTip": "Textbasedgame\\Program.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAFUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:00:52.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
